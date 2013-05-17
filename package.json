@@ -2,8 +2,8 @@
   "name": "facebook-ssl",
   "fullName": "Force Facebook SSL",
   "id": "jid1-Aw3WRaT5LYmUoQ",
-  "description": "Changes any tab loading facebook.com to use HTTPS",
+  "description": "Makes anything loading from facebook.com use HTTPs",
   "author": "Jason Butz",
   "license": "MPL 2.0",
-  "version": "0.2"
+  "version": "0.2.1"
 }
